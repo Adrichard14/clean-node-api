@@ -4,7 +4,8 @@
   "description": "Node API using Clean Architecture",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test:staged": "staged"
   },
   "repository": {
     "type": "git",
