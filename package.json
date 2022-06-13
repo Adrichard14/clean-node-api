@@ -4,8 +4,8 @@
   "description": "Node API using Clean Architecture",
   "main": "index.js",
   "scripts": {
-    "test": "jest",
-    "test:staged": "staged"
+    "test": "jest --passWithNoTests",
+    "test:staged": "jest --passWithNoTests"
   },
   "repository": {
     "type": "git",
